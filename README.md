@@ -31,5 +31,6 @@ The `benchmark.py` script compares classical and QML loops:
 - Classical Energy (proxy): 11.151ms CPU time (via PyTorch Profiler)
 - QML Energy (proxy): 0.0061 arbitrary units (scaled from time)
 
+
 ## Note
-The `data/` directory is excluded from the repository due to file size limits; users must download the TrackML data manually.
+This is a simplified demo to showcase feasibility for GSoC. Energy benchmarking is a proxy due to limited hardware access. The `data/` directory is excluded from the repository due to file size limits; users must download the TrackML data manually.
