@@ -20,7 +20,7 @@ The `load_trackml.py` script visualizes 100 particle hits from a TrackML event i
 
 ### QML Circuit Output
 The `qml_pipeline.py` script runs a dummy QML circuit:
-- Example Output: `QML Circuit Output (Expectation Value): 0.123456` (value may vary due to random parameters)
+- Example Output: `QML Circuit Output (Expectation Value): 0.560327712581222` (value varies due to random parameters)
 
 ### Benchmark Results
 The `benchmark.py` script compares classical and QML loops:
